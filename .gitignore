@@ -1,0 +1,25 @@
+*.suo
+*.user
+*.sln.docstates
+
+Packages.dgml
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+/packages/
+!packages/repositories.config
+
+# SHFB
+/Help/
+*~
+*.bak
+
+.idea/
+.vs/
